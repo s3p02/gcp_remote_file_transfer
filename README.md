@@ -35,3 +35,5 @@ Click Ok, and Click Login.
 <kbd>
   <img src="/3_winscp.JPG">
 </kbd>
+
+Now drag and drop files between your remote VM and local system.
