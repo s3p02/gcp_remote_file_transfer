@@ -17,7 +17,7 @@ Look for it in the start menu, as shown below.
 Hostname is your external ip address, username is the same as your gcp username and click 'Advanced'.
 
 <kbd>
-  <img src="/0_winscp.JPG">
+  <img src="/1_winscp.JPG">
 </kbd>
 
 # Step 3: Authentication with [SSH Key](https://github.com/s3p02/create_ssh_mac_and_linux_and_windows)
